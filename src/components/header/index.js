@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, {useState} from 'react';
 import "./header.css";
 import Web from "./web/index";
 import Mobile from "./mobile/index";
@@ -6,7 +6,7 @@ import Mobile from "./mobile/index";
 
 
 function Header() {
-    const [isOpen, setIsOpen] = useState(false);
+    const [isOpen, setIsOpen]= useState(false);
 return (
     <div className='header'>
         <div className='logo'>Thaísa GM Portifolio</div>
@@ -27,4 +27,4 @@ return (
 
 }
 
-export default Header;
+export default Header

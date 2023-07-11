@@ -1,6 +1,6 @@
 .header {
     display: flex;
-    background-color: grey;
+    background-color:antiquewhite;
     justify-content: space-between;
     flex: 1;
     padding: 12px;
@@ -9,7 +9,7 @@
 }
 
 .menu {
-    background-color: darkgrey;
+    background-color: grey;
     display: flex;
     flex: 1;
     justify-content: flex-end;
@@ -30,15 +30,14 @@
 .logo {
     display: flex;
     font-size: 36px;
-    color: red;
-    font-weight: bold;
+    color: pink;
+    font-weight: 800;
 }
 
 @media only screen and (max-width: 720px) {
     .mobile-menu {
         display: flex;
     }
-}
 
 .web-menu {
     display: none;
@@ -46,4 +45,5 @@
 
 .logo {
     font-size: 24px;
+}
 }
