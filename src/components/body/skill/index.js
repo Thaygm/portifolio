@@ -1,9 +1,9 @@
 import React from 'react'
 
 
-function Skills() {
+function Habilidades() {
 return <div> todas minhas experiencias</div>;
 
 }
 
-export default Skills;
+export default Habilidades;

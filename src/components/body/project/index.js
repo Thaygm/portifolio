@@ -1,9 +1,9 @@
 import React from 'react'
 
 
-function Projects() {
+function Projetos() {
 return <div> meus projetinhos</div>;
 
 }
 
-export default Projects;
+export default Projetos;

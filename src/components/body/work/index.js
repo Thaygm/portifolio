@@ -1,9 +1,9 @@
 import React from 'react'
 
 
-function Work() {
+function Trabalho() {
 return <div> meus trabalhos</div>;
 
 }
 
-export default Work;
+export default Trabalho;
